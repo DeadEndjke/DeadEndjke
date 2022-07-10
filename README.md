@@ -18,8 +18,11 @@
 ![Axios](https://img.shields.io/badge/Axios-ff0000?style=for-the-badge)
 ![Material-ui](https://img.shields.io/badge/Material_UI-0000cc?style=for-the-badge)
 
-![Redux](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/redux_toolkit-%23523a88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ## Follow me
-![Telegram](https://img.shields.io/badge/Telegram-%231572B6.svg?style=for-the-badge&logo=telegram3&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Percept10n)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/362611270051954689/)
+[![VKontakte](https://img.shields.io/badge/Vkontakte-%231877F2.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/c.percepton)
+
 
