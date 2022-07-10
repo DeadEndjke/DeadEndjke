@@ -1,16 +1,25 @@
-## I'm a begginer front-end developer from Novosibirsk
+## I'm a begginer front-end developer
+
 
 ## Languages and Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![CSS](https://img.shields.io/badge/-JS-yellow)
-![CSS](https://img.shields.io/badge/-TS-blue)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![react-router-dom](https://img.shields.io/badge/react_router_dom-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![react-hooks](https://img.shields.io/badge/react_hooks-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![react-hook-form](https://img.shields.io/badge/react_hook_form-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![CSS](https://img.shields.io/badge/-ReactJS-darkblue)
-![react-router-dom](https://img.shields.io/badge/-ReactRouterDom-darkblue)
-![react-router-dom](https://img.shields.io/badge/-ReactHooks-darkblue)
+![Fetch](https://img.shields.io/badge/Fetch-FEAA2D?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-ff0000?style=for-the-badge)
+![Material-ui](https://img.shields.io/badge/Material_UI-0000cc?style=for-the-badge)
 
-![react-router-dom](https://img.shields.io/badge/-ReduxToolkit-blueviolet)
+![Redux](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+## Follow me
+![Telegram](https://img.shields.io/badge/Telegram-%231572B6.svg?style=for-the-badge&logo=telegram3&logoColor=white)
 
