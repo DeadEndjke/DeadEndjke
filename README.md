@@ -19,7 +19,7 @@
 ![Axios](https://img.shields.io/badge/Axios-ff0000?style=for-the-badge&logo=Academia&logoColor=white)
 ![Material-ui](https://img.shields.io/badge/Material_UI-0000cc?style=for-the-badge&logo=MUI&logoColor=white)
 
-![Redux](https://img.shields.io/badge/redux_toolkit-%23523a88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
