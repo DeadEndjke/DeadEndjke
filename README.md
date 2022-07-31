@@ -38,12 +38,14 @@
 
 [react-RickAndMorty](https://github.com/DeadEndjke/react-RickAndMorty)
 
+## In the process
+[OkayPost](https://github.com/DeadEndjke/OkayPost)
+
 ## Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Percept10n)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/362611270051954689/)
 [![VKontakte](https://img.shields.io/badge/Vkontakte-%231877F2.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/c.percepton)
 
-## In the process
-[OkayPost](https://github.com/DeadEndjke/OkayPost)
+
 
 
