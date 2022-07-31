@@ -27,9 +27,19 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+## My latest projects(you can see how my approach to creating projects has changed)
+[react-shop](https://github.com/DeadEndjke/react-shop)
+[react-weather](https://github.com/DeadEndjke/react-weather)
+[Autortie](https://github.com/DeadEndjke/Autortie)
+[react-dota](https://github.com/DeadEndjke/react-dota)
+[react-RickAndMorty](https://github.com/DeadEndjke/react-RickAndMorty)
+
 ## Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Percept10n)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/362611270051954689/)
 [![VKontakte](https://img.shields.io/badge/Vkontakte-%231877F2.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/c.percepton)
+
+## In the process
+[OkayPost](https://github.com/DeadEndjke/OkayPost)
 
 
