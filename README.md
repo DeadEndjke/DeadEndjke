@@ -29,9 +29,13 @@
 
 ## My latest projects(you can see how my approach to creating projects has changed)
 [react-shop](https://github.com/DeadEndjke/react-shop)
+
 [react-weather](https://github.com/DeadEndjke/react-weather)
+
 [Autortie](https://github.com/DeadEndjke/Autortie)
+
 [react-dota](https://github.com/DeadEndjke/react-dota)
+
 [react-RickAndMorty](https://github.com/DeadEndjke/react-RickAndMorty)
 
 ## Follow me
