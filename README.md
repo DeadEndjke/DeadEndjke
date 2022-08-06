@@ -28,7 +28,9 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## My latest projects(you can see how my approach to creating projects has changed)
-[react-shop](https://github.com/DeadEndjke/react-shop)
+[react-redux-auth](https://github.com/DeadEndjke/react-shop)
+
+[react-shop](https://github.com/DeadEndjke/react-test-task)
 
 [react-weather](https://github.com/DeadEndjke/react-weather)
 
