@@ -1,4 +1,4 @@
-## begginer developer
+## Begginer Developer
 
 
 ## Languages and Tools
